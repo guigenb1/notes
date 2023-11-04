@@ -3318,7 +3318,7 @@
     endmodule
     ```
 
-    * <img src="C:.\fsm hdlc.png" alt="image-20231102231259170" style="zoom:80%;" />
+    * <img src=".\fsm hdlc.png" alt="image-20231102231259170" style="zoom:80%;" />
 
 21. Exams/ece241 2013 q8
 
@@ -3816,7 +3816,7 @@
    endmodule
    ```
 
-   * <img src="C:\Users\INTEL\Desktop\新建文件夹\review2015 fsmshift.png" alt="image-20231103225636455" style="zoom:80%;" />
+   * <img src=".\review2015 fsmshift.png" alt="image-20231103225636455" style="zoom:80%;" />
 
 5. Exams/review2015 fsm
 
