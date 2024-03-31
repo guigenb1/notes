@@ -1,5 +1,3 @@
-[TOC]
-
 # HDLBits
 
 ## Getting Started
@@ -2859,7 +2857,7 @@
     endmodule
     ```
 
-    * <img src=".\lemmings1.png" alt="image-20231102115957271" style="zoom:80%;" />
+    * <img src="./img/lemmings1.png" alt="image-20231102115957271" style="zoom:80%;" />
 
 11. Lemmings2
 
@@ -2901,7 +2899,7 @@
     endmodule
     ```
 
-    * <img src=".\lemmings2.png" alt="image-20231102122419404" style="zoom:80%;" />
+    * <img src="./img/lemmings2.png" alt="image-20231102122419404" style="zoom:80%;" />
 
 12. Lemmings3
 
@@ -2951,7 +2949,7 @@
     endmodule
     ```
 
-    * <img src=".\lemmings3.png" alt="image-20231102124212257" style="zoom:80%;" />
+    * <img src="./img/lemmings3.png" alt="image-20231102124212257" style="zoom:80%;" />
 
 13. Lemmings4
 
@@ -3010,7 +3008,7 @@
     endmodule
     ```
 
-    * <img src=".\lemmings4.png" alt="image-20231102124850549" style="zoom:80%;" />
+    * <img src="./img/lemmings4.png" alt="image-20231102124850549" style="zoom:80%;" />
 
 14. Fsm onehot
 
@@ -3076,7 +3074,7 @@
     endmodule
     ```
 
-    * <img src=".\fsm ps2.png" alt="image-20231102172942069" style="zoom:80%;" />
+    * <img src="./img/fsm ps2.png" alt="image-20231102172942069" style="zoom:80%;" />
 
 16. Fsm ps2data
 
@@ -3162,7 +3160,7 @@
     endmodule
     ```
 
-    * <img src=".\fsm serial.png" alt="image-20231102192629755" style="zoom:80%;" />
+    * <img src="./img/fsm serial.png" alt="image-20231102192629755" style="zoom:80%;" />
 
 18. Fsm serialdata
 
@@ -3273,7 +3271,7 @@
     endmodule
     ```
 
-    * <img src=".\fsm serialdp.png" alt="image-20231102195032518" style="zoom:80%;" />
+    * <img src="./img/fsm serialdp.png" alt="image-20231102195032518" style="zoom:80%;" />
 
 20. Fsm hdlc
 
@@ -3318,7 +3316,7 @@
     endmodule
     ```
 
-    * <img src=".\fsm hdlc.png" alt="image-20231102231259170" style="zoom:80%;" />
+    * <img src="./img/fsm hdlc.png" alt="image-20231102231259170" style="zoom:80%;" />
 
 21. Exams/ece241 2013 q8
 
@@ -3350,7 +3348,7 @@
     endmodule
     ```
 
-    * <img src=".\ece241 2013 q8.png" alt="image-20231102233902382" style="zoom:80%;" />
+    * <img src="./img/ece241 2013 q8.png" alt="image-20231102233902382" style="zoom:80%;" />
 
 22. Exams/ece241 2014 q5a
 
@@ -3386,7 +3384,7 @@
     endmodule
     ```
 
-    * <img src=".\ece241 2014 q5a.png" alt="image-20231103192811196" style="zoom:80%;" />
+    * <img src="./img/ece241 2014 q5a.png" alt="image-20231103192811196" style="zoom:80%;" />
 
 23. Exams/ece241 2014 q5b
 
@@ -3712,7 +3710,7 @@
     endmodule
     ```
 
-    * <img src=".\2013 q2bfsm.png" alt="image-20231103205823259" style="zoom:80%;" />
+    * <img src="./img/2013 q2bfsm.png" alt="image-20231103205823259" style="zoom:80%;" />
 
 ### Building Larger Circuits
 
@@ -3783,7 +3781,7 @@
    endmodule
    ```
 
-   * <img src=".\review2015 fsmseq.png" alt="image-20231103223025817" style="zoom:80%;" />
+   * <img src="./img/review2015 fsmseq.png" alt="image-20231103223025817" style="zoom:80%;" />
 
 4. Exams/review2015 fsmshift
 
@@ -3816,7 +3814,7 @@
    endmodule
    ```
 
-   * <img src=".\review2015 fsmshift.png" alt="image-20231103225636455" style="zoom:80%;" />
+   * <img src="./img/review2015 fsmshift.png" alt="image-20231103225636455" style="zoom:80%;" />
 
 5. Exams/review2015 fsm
 
@@ -3861,7 +3859,7 @@
    endmodule
    ```
 
-   * <img src=".\review2015 fsm.png" alt="image-20231104001633754" style="zoom:80%;" />
+   * <img src="./img/review2015 fsm.png" alt="image-20231104001633754" style="zoom:80%;" />
 
 6. Exams/review2015 fancytimer
 
